@@ -58,6 +58,12 @@ cd memory-game
 
 Just open index.html in your preferred browser.
 
+📸 Screenshot 
+
+![Screenshot 2025-07-10 at 6 55 48 AM](https://github.com/user-attachments/assets/b1057def-497b-4bb1-b15a-609b9dcc6aec)
+![Screenshot 2025-07-10 at 6 56 24 AM](https://github.com/user-attachments/assets/f3fd3395-2da2-44cc-ac6b-57e360966b36)
+
+
 
 🐛 Known Issues
 
