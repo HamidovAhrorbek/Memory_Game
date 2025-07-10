@@ -2,15 +2,6 @@
 
 A simple and fun memory matching game built with JavaScript, HTML, and CSS. Flip the cards and try to match all the pairs of food-themed images!
 
-![Game Preview](images/preview.png) <!-- Replace with a screenshot if you have one -->
-
----
-
-🎮 Demo
-
-[Click here to play the game](https://your-demo-link.com) <!-- Optional: add GitHub Pages link if hosted -->
-
----
 
 🛠️ Features
 
@@ -20,21 +11,20 @@ A simple and fun memory matching game built with JavaScript, HTML, and CSS. Flip
 * Win message when all matches are found
 * Food-themed images for a playful design
 
----
 
 🧱 Built With
 
-- **HTML**
-- **CSS**
-- **JavaScript**
-
----
+* **HTML**
+* **CSS**
+* **JavaScript**
 
 
 📁 Project Structure
 
--- plaintext
+* plaintext
 
+
+📁 Images file
 
 * images /
   * blank.png
@@ -42,6 +32,7 @@ A simple and fun memory matching game built with JavaScript, HTML, and CSS. Flip
   * fries.png
   * pizza.png
   * ... (other images)
+    
 * index.html
 * app.js
 * style.css
@@ -60,9 +51,7 @@ Just open index.html in your preferred browser.
 
 📸 Screenshot 
 
-![Screenshot 2025-07-10 at 6 55 48 AM](https://github.com/user-attachments/assets/b1057def-497b-4bb1-b15a-609b9dcc6aec)
 ![Screenshot 2025-07-10 at 6 56 24 AM](https://github.com/user-attachments/assets/f3fd3395-2da2-44cc-ac6b-57e360966b36)
-
 
 
 🐛 Known Issues
